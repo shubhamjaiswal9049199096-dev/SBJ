@@ -1,0 +1,6 @@
+{
+  "name": "S Elevators",
+  "description": "Business management app for S Elevators, Bhiwandi, Maharashtra. Manage customers, appointments, contracts, technicians, tickets and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
